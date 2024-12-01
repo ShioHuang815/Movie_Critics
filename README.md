@@ -52,15 +52,15 @@ A decline in movie data post-2015 led to filtering movies released before 2010.
 
 ## 3. Feature Engineering
 
-### Genre: Converted into dummy variables.
+Genre: Converted into dummy variables.
 
-### Rating: Mapped to numerical categories to capture critic preferences.
+Rating: Mapped to numerical categories to capture critic preferences.
 
-### Movie Title: Transformed into title length as a numeric feature.
+Movie Title: Transformed into title length as a numeric feature.
 
-### Directors: Top 100 directors encoded as dummy variables.
+Directors: Top 100 directors encoded as dummy variables.
 
-### Kid-Friendliness: Binary feature based on movie rating (e.g., G, PG).
+Kid-Friendliness: Binary feature based on movie rating (e.g., G, PG).
 
 ## 4. Modeling
 
