@@ -64,17 +64,17 @@ Kid-Friendliness: Binary feature based on movie rating (e.g., G, PG).
 
 ## 🌟 4. Modeling
 
-### Model 1: Runtime Only: Baseline model with runtime as the sole feature.
+#### Model 1: Runtime Only: Baseline model with runtime as the sole feature.
 
-### Model 2: Runtime + Kid-Friendly: Added binary feature for kid-friendliness.
+#### Model 2: Runtime + Kid-Friendly: Added binary feature for kid-friendliness.
 
-### Model 3: Runtime + Kid-Friendly + Genre: Included genre dummy variables.
+#### Model 3: Runtime + Kid-Friendly + Genre: Included genre dummy variables.
 
-### Model 4: Runtime + Kid-Friendly + Genre + Rating Mapped: Added mapped ratings.
+#### Model 4: Runtime + Kid-Friendly + Genre + Rating Mapped: Added mapped ratings.
 
-### Model 5: Runtime + Genre + Rating + Directors: Switched kid-friendliness with director dummy variables.
+#### Model 5: Runtime + Genre + Rating + Directors: Switched kid-friendliness with director dummy variables.
 
-### Model 6: Runtime + Genre + Rating + Title Length: Replaced directors with movie title length.
+#### Model 6: Runtime + Genre + Rating + Title Length: Replaced directors with movie title length.
 
 Key features: Runtime, Rating, Genre, and Movie Title Length.
 
